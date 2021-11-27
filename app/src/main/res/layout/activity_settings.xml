@@ -284,6 +284,14 @@
             android:paddingEnd="@dimen/normal_margin"
             android:text="My Switch" />
 
+        <Button
+            android:id="@+id/button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FB1C1C"
+            android:backgroundTint="#D61111"
+            android:text="My Button" />
+
         <RelativeLayout
             android:id="@+id/settings_enable_root_access_holder"
             android:layout_width="match_parent"
