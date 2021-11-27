@@ -266,7 +266,7 @@
                 android:id="@+id/settings_file_deletion_password_protection"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="@null"
+                android:background="#D6C99A"
                 android:clickable="false"
                 android:paddingStart="@dimen/medium_margin"
                 android:text="@string/password_protect_file_deletion"
